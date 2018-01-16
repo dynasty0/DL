@@ -1,10 +1,10 @@
-# fcn: using mobilenet instead of vgg16
+# FCN: using mobilenet instead of vgg16
 
 This implementation is refered to [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html)
 
 But we using [mobilenet](https://arxiv.org/abs/1704.04861) to extract features instead of vgg16.
 
-It is much faster than the traditional [fcn](https://github.com/dynasty0/DL/tree/master/fcn)
+It is much faster than the traditional [FCN](https://github.com/dynasty0/DL/tree/master/fcn).
 
 ## Usage
 
